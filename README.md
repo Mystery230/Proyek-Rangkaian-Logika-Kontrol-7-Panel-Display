@@ -22,13 +22,13 @@ Repositori ini terdiri dari beberapa jenis file yang saling mendukung:
 * File-file `.csv` ini diekspor dari Excel dan berisi tabel kebenaran atau data logika yang dibutuhkan untuk setiap komponen.
 * **`Desain.csv`**: Kemungkinan berisi tabel kebenaran master yang memetakan semua kemungkinan input ke output yang diinginkan untuk seluruh panel.
 * **`Panel1.csv` hingga `Panel7.csv`**: Setiap file ini mewakili data logika untuk satu panel display, yang secara berurutan berfungsi untuk menampilkan:
-    * **Panel 1:** Huruf **'A'**
-    * **Panel 2:** Huruf **'D'**
-    * **Panel 3:** Huruf **'I'**
-    * **Panel 4:** Huruf **'T'**
-    * **Panel 5:** Huruf **'Y'**
+    * **Panel 1:** Huruf **'M'**
+    * **Panel 2:** Huruf **'I'**
+    * **Panel 3:** Huruf **'S'**
+    * **Panel 4:** Huruf **'H'**
+    * **Panel 5:** Huruf **'B'**
     * **Panel 6:** Huruf **'A'**
-    * **Panel 7:** (Kemungkinan kosong, karakter spesial, atau bagian dari NIM)
+    * **Panel 7:** Huruf **'H'**
 
 ---
 
